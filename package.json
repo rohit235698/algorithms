@@ -1,0 +1,11 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "algorithms implemention using javascript",
+  "keywords": [
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Rohit k",
+  "license": "ISC"
+}
